@@ -1,0 +1,8 @@
+/Users/jessicawu/Projects/Web-Driver-Demo/WebDriverDemo/bin/Debug/WebDriverDemo.exe
+/Users/jessicawu/Projects/Web-Driver-Demo/WebDriverDemo/bin/Debug/WebDriverDemo.pdb
+/Users/jessicawu/Projects/Web-Driver-Demo/WebDriverDemo/bin/Debug/WebDriver.dll
+/Users/jessicawu/Projects/Web-Driver-Demo/WebDriverDemo/bin/Debug/WebDriver.xml
+/Users/jessicawu/Projects/Web-Driver-Demo/WebDriverDemo/obj/x86/Debug/WebDriverDemo.csprojResolveAssemblyReference.cache
+/Users/jessicawu/Projects/Web-Driver-Demo/WebDriverDemo/obj/x86/Debug/WebDriverDemo.csproj.CoreCompileInputs.cache
+/Users/jessicawu/Projects/Web-Driver-Demo/WebDriverDemo/obj/x86/Debug/WebDriverDemo.exe
+/Users/jessicawu/Projects/Web-Driver-Demo/WebDriverDemo/obj/x86/Debug/WebDriverDemo.pdb
